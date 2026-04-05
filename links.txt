@@ -1,0 +1,8 @@
+Game Pad Viewer
+http://www.gamepadviewer.com
+
+HTML5 Gamepad Tester
+http://html5gamepad.com/
+
+Ending "style" tag for the URL
+&nocurve=1&soffset=58&dz=0
